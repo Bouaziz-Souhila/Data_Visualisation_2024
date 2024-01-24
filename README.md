@@ -4,46 +4,26 @@ Le jeu de données que nous avons selectionné contient des informations sur l'i
 En ce qui concerne les colonnes vides, il semble y avoir des cellules vides dans le jeu de données. Par exemple, certaines lignes contiennent des valeurs manquantes pour des indicateurs tels que le salaire net mensuel médian, le taux de chômage national, etc. Ces cellules vides devront être prises en compte lors du nettoyage et de la préparation des données pour une analyse ou une visualisation ultérieure.
 # présentation des informations présentées dans le jeu de données : 
 Le fichier fr-esr-insertion_professionnelle-master.csv contient les champs de données suivants :
-# Année : 
-L'année à laquelle les données d'insertion professionnelle se rapportent.
-# Diplôme : 
-Le type de diplôme obtenu (Master LMD, etc.).
-# Situation : 
-Le statut des diplômés (18 mois après le diplôme, 30 mois après le diplôme, etc.).
-# Genre : 
-Le genre des diplômés (femmes, hommes, ou les deux).
-# Domaine d'étude :
-Le domaine d'étude des diplômés.
-# Code du domaine : 
-Le code du domaine d'étude.
-# Discipline : 
-La discipline d'étude des diplômés.
-# Code de la discipline : 
-Le code de la discipline d'étude.
-# Nombre de diplômés : 
-Le nombre de diplômés pour chaque catégorie.
-# Taux d'insertion : 
-Le taux d'insertion professionnelle des diplômés.
-# Taux d'emploi : 
-Le taux d'emploi des diplômés.
-# Taux d'emploi salarié en France : 
-Le taux d'emploi salarié en France des diplômés.
-# Pourcentage d'emplois cadre ou professions intermédiaires : 
-Le pourcentage d'emplois cadre ou professions intermédiaires des diplômés.
-# Pourcentage d'emplois stables : 
-Le pourcentage d'emplois stables des diplômés.
-# Pourcentage d'emplois à temps plein : 
-Le pourcentage d'emplois à temps plein des diplômés.
-# Salaire net médian des emplois à temps plein : 
-Le salaire net médian des emplois à temps plein des diplômés.
-# Salaire brut annuel estimé : 
-Le salaire brut annuel estimé des diplômés.
-# Pourcentage de diplômés boursiers : 
-Le pourcentage de diplômés boursiers parmi les diplômés.
-# Taux de chômage régional : 
-Le taux de chômage régional des diplômés.
-# Salaire net mensuel médian régional : 
-Le salaire net mensuel médian régional des diplômés.
+Année : L'année à laquelle les données d'insertion professionnelle se rapportent.
+Diplôme : Le type de diplôme obtenu (Master LMD, etc.).
+Situation : Le statut des diplômés (18 mois après le diplôme, 30 mois après le diplôme, etc.).
+Genre : Le genre des diplômés (femmes, hommes, ou les deux).
+Domaine d'étude : Le domaine d'étude des diplômés.
+Code du domaine : Le code du domaine d'étude.
+Discipline : La discipline d'étude des diplômés.
+Code de la discipline : Le code de la discipline d'étude.
+Nombre de diplômés : Le nombre de diplômés pour chaque catégorie.
+Taux d'insertion : Le taux d'insertion professionnelle des diplômés.
+Taux d'emploi : Le taux d'emploi des diplômés.
+Taux d'emploi salarié en France : Le taux d'emploi salarié en France des diplômés.
+Pourcentage d'emplois cadre ou professions intermédiaires : Le pourcentage d'emplois cadre ou professions intermédiaires des diplômés.
+Pourcentage d'emplois stables : Le pourcentage d'emplois stables des diplômés.
+Pourcentage d'emplois à temps plein : Le pourcentage d'emplois à temps plein des diplômés.
+Salaire net médian des emplois à temps plein : Le salaire net médian des emplois à temps plein des diplômés.
+Salaire brut annuel estimé : Le salaire brut annuel estimé des diplômés.
+Pourcentage de diplômés boursiers : Le pourcentage de diplômés boursiers parmi les diplômés.
+Taux de chômage régional : Le taux de chômage régional des diplômés.
+Salaire net mensuel médian régional : Le salaire net mensuel médian régional des diplômés.
 Il semble y avoir des colonnes vides dans le jeu de données, comme indiqué par la présence de plusieurs points-virgules consécutifs dans les extraits de données fournis. Ces colonnes vides devront être prises en compte lors du nettoyage et de la préparation des données pour une analyse ou une visualisation ultérieure.
 
 
