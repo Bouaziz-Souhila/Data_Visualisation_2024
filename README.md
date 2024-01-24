@@ -1,5 +1,5 @@
 # Data_Visualisation_2024
-# Projet de Visualisation de Données sur l'insertion peoffessionnelle des diplomés de Master en France 
+# Projet de Visualisation de Données sur l'insertion proffessionnelle des diplomés de Master en France 
 Le jeu de données que nous avons selectionné contient des informations sur l'insertion professionnelle des diplômés de niveau Master en France. Les informations incluses dans le fichier couvrent divers aspects tels que l'année, le type de diplôme, la situation (18 ou 30 mois après le diplôme), le genre, les disciplines d'étude, les indicateurs d'insertion professionnelle tels que les taux d'insertion, les taux d'emploi, les salaires médians, etc.
 En ce qui concerne les colonnes vides, il semble y avoir des cellules vides dans le jeu de données. Par exemple, certaines lignes contiennent des valeurs manquantes pour des indicateurs tels que le salaire net mensuel médian, le taux de chômage national, etc. Ces cellules vides devront être prises en compte lors du nettoyage et de la préparation des données pour une analyse ou une visualisation ultérieure.
 # présentation des informations présentées dans le jeu de données : 
