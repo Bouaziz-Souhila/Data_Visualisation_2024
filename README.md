@@ -1,7 +1,7 @@
 # Data_Visualisation_2024
 # Introduction : 
   Dans le paysage éducatif contemporain, l'obtention d'un diplôme de master est souvent perçue comme une étape cruciale dans le cheminement académique, ouvrant les portes à des opportunités professionnelles diverses. Toutefois, le succès de cette transition du monde académique au marché du travail demeure une préoccupation pour les nouveaux diplômés. Ce projet de datavisualisation s'attache à explorer et à analyser l'insertion professionnelle des diplômés de master des universités françaises.
-!["Passage vers l'avenir réussi."]([lien_de_votre_image](https://alumni.ut-capitole.fr/medias/image/16329001225db15e48bfa0f.jpg)
+!["Passage vers l'avenir réussi."](https://alumni.ut-capitole.fr/medias/image/16329001225db15e48bfa0f.jpg)
 
 La question de l'insertion professionnelle va au-delà des simples statistiques d'emploi. Elle englobe la diversité des parcours professionnels, les secteurs d'activité privilégiés, les rémunérations, et les défis rencontrés par les diplômés. En examinant de près ces aspects, nous aspirons à apporter une compréhension approfondie des dynamiques de l'emploi post-master, fournissant ainsi des informations cruciales pour les étudiants, les universités, et les acteurs du marché du travail.
 
