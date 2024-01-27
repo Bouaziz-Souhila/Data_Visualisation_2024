@@ -1,6 +1,7 @@
 # Data_Visualisation_2024
 # Introduction : 
   Dans le paysage éducatif contemporain, l'obtention d'un diplôme de master est souvent perçue comme une étape cruciale dans le cheminement académique, ouvrant les portes à des opportunités professionnelles diverses. Toutefois, le succès de cette transition du monde académique au marché du travail demeure une préoccupation pour les nouveaux diplômés. Ce projet de datavisualisation s'attache à explorer et à analyser l'insertion professionnelle des diplômés de master des universités françaises.
+!["Passage vers l'avenir réussi."]([lien_de_votre_image](https://alumni.ut-capitole.fr/medias/image/16329001225db15e48bfa0f.jpg)
 
 La question de l'insertion professionnelle va au-delà des simples statistiques d'emploi. Elle englobe la diversité des parcours professionnels, les secteurs d'activité privilégiés, les rémunérations, et les défis rencontrés par les diplômés. En examinant de près ces aspects, nous aspirons à apporter une compréhension approfondie des dynamiques de l'emploi post-master, fournissant ainsi des informations cruciales pour les étudiants, les universités, et les acteurs du marché du travail.
 
@@ -38,15 +39,15 @@ Le recours à une carte thermique trouve sa justification dans notre volonté de
 
 Notre objectif principal avec cette datavisualisation est de présenter de manière percutante les écarts de salaires médians entre les domaines d'études, incitant ainsi à une réflexion approfondie sur les dynamiques salariales au sein de la population diplômée. La carte thermique se révèle ainsi comme un outil visuel puissant pour mettre en avant ces variations de manière impactante.
 
-# Diagramme en Secteurs (Camembert) pour la Répartition des Diplômés par Genre
+# Diagramme en Secteurs (Camembert) pour la Répartition des Diplômés par Genre :
 
 Pour illustrer la répartition des diplômés par genre et fournir une vue d'ensemble rapide de la proportion de femmes et d'hommes parmi les diplômés, nous avons opté pour l'utilisation d'un diagramme en secteurs (camembert). Cette approche permettra une visualisation immédiate de la distribution relative des genres au sein de la population diplômée. En utilisant des secteurs proportionnels, nous offrirons une représentation graphique claire des différences de genre parmi les diplômés, favorisant ainsi une compréhension instantanée de la diversité dans le cadre de l'éducation supérieure.
 
-# Diagramme en Barres Groupées pour Comparer les Salaires Médians par Genre
+# Diagramme en Barres Groupées pour Comparer les Salaires Médians par Genre :
 
 Pour comparer les salaires médians des diplômés en fonction de leur genre et mettre en évidence les différences de rémunération entre les femmes et les hommes dans différents domaines d'études, nous avons choisi de créer un diagramme en barres groupées. Cette approche de datavisualisation permettra une comparaison claire et directe des salaires médians par genre, en organisant les barres groupées par domaine d'études. En utilisant ce format, nous visons à offrir une perspective comparative détaillée des écarts de rémunération entre les genres, mettant en lumière les variations significatives dans les parcours professionnels post-diplôme.
 
-# Diagramme en Barres Groupées pour le Taux d'Insertion Professionnelle selon le Genre
+# Diagramme en Barres Groupées pour le Taux d'Insertion Professionnelle selon le Genre :
 
 Nous avons choisi d'utiliser un diagramme en barres groupées pour illustrer le taux d'insertion professionnelle selon le genre. Chaque barre groupée représente le taux d'insertion professionnel, différencié entre les femmes et les hommes, dans divers domaines d'études. Cette visualisation offre une comparaison directe des taux d'insertion professionnelle entre les genres, mettant en évidence les différences potentielles dans l'entrée sur le marché du travail après l'obtention du diplôme.
 
