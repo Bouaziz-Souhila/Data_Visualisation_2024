@@ -21,14 +21,15 @@ Le choix du diagramme circulaire repose sur notre intention de créer une repré
  !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/6ecdf40f-1c91-4230-afce-d0d4ea645ed6)
 
 
-# Diagramme en barres des salaires médianes: 
+# Diagramme en barres des salaires médianes anuelle estimé par dicsipline : 
 Afin de comparer les salaires médians des diplômés en fonction de leur domaine d'études et de leur genre, nous avons opté pour l'utilisation d'un diagramme en barres. Cette approche va nous permettre de visualiser de manière efficace les différences de rémunération entre les différents groupes.
 
 Le choix du diagramme en barres se justifie par notre désir de créer une représentation graphique claire et comparative des salaires médians. En disposant les barres côte à côte, nous pourrons aisément observer et analyser les disparités salariales, que ce soit par discipline académique ou par genre. Cette visualisation s'avère particulièrement pertinente pour mettre en lumière des tendances significatives et fournir des informations essentielles sur les dynamiques salariales au sein de la population diplômée.
 
 Notre objectif premier avec cette datavisualisation est d'offrir une compréhension visuelle immédiate des écarts salariaux, favorisant ainsi une réflexion approfondie sur les aspects liés à l'équité et à la diversité au sein des parcours professionnels post-diplôme. Le diagramme en barres se présente ainsi comme un outil graphique puissant pour illustrer et communiquer de manière concise ces différences salariales significatives.
 
-la population étudiante. Le diagramme circulaire se positionne ainsi comme un moyen graphique élégant pour mettre en avant ces différences disciplinaires de manière accessible.
+!["Slaire annuel estimé par discipline."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/a7a08946-b3e6-4a96-958e-3e1320f69d66)
+
 
 # Carte thermique pour les salaires médians par domaine d'études :
 Pour visualiser les salaires médians des diplômés dans différents domaines d'études et offrir une représentation visuelle rapide des niveaux de rémunération, nous avons fait le choix d'utiliser une carte thermique. Cette approche nous permettra de créer une représentation graphique dynamique où les variations de salaires seront rapidement perceptibles, offrant ainsi une compréhension immédiate des écarts de rémunération.
