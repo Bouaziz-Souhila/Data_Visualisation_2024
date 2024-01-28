@@ -22,7 +22,7 @@ Le choix du diagramme circulaire repose sur notre intention de créer une repré
  !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/6ecdf40f-1c91-4230-afce-d0d4ea645ed6)
 
 
-# Diagramme en barres des salaires médianes anuelle estimé par dicsipline : 
+# Diagramme en barres des salaires médianes annuel estimé par dicsipline : 
 Afin de comparer les salaires médians des diplômés en fonction de leur domaine d'études et de leur genre, nous avons opté pour l'utilisation d'un diagramme en barres. Cette approche va nous permettre de visualiser de manière efficace les différences de rémunération entre les différents groupes.
 
 Le choix du diagramme en barres se justifie par notre désir de créer une représentation graphique claire et comparative des salaires médians. En disposant les barres côte à côte, nous pourrons aisément observer et analyser les disparités salariales, que ce soit par discipline académique ou par genre. Cette visualisation s'avère particulièrement pertinente pour mettre en lumière des tendances significatives et fournir des informations essentielles sur les dynamiques salariales au sein de la population diplômée.
