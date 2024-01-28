@@ -16,6 +16,8 @@ Le jeu de données que nous avons selectionné contient des informations sur l'i
   Nous optons pour un graphique linéaire car il offre une représentation visuelle claire et continue des tendances, permettant ainsi une observation détaillée des variations et des fluctuations des taux d'emploi au fil des années qui suivent la réussite du programme de master.
 
   Notre objectif principal avec cette visualisation est de fournir une perspective chronologique de l'insertion professionnelle, offrant ainsi une compréhension approfondie des transitions qui surviennent au fil du temps. En traçant les trajectoires d'emploi sur une échelle temporelle, le graphique linéaire nous permet d'identifier les périodes de croissance, de stagnation ou de déclin dans le domaine professionnel des diplômés. Cette approche temporelle facilitera également la détection de tendances émergentes et la compréhension des facteurs qui influencent l'emploi des diplômés de master, contribuant ainsi à orienter les décisions des étudiants, des universités et des décideurs dans le domaine de l'éducation.
+  !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/6ecdf40f-1c91-4230-afce-d0d4ea645ed6)
+)
 # Diagramme circulaire pour la répartition par domaine d'études :
 Afin d'illustrer la répartition des diplômés par domaine d'études et de mettre en évidence la proportion de diplômés dans chaque discipline, nous avons choisi d'utiliser un diagramme circulaire. Cette approche nous permettra de visualiser de manière succincte et esthétique la répartition globale des diplômés au sein des différents domaines académiques.
 
