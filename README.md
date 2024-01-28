@@ -48,7 +48,7 @@ Pour illustrer la répartition des diplômés par genre et fournir une vue d'ens
 # Comparer les Salaires Médians par Genre :
 
 Pour comparer les salaires médians des diplômés en fonction de leur genre et mettre en évidence les différences de rémunération entre les femmes et les hommes dans différents domaines d'études, nous avons choisi de créer un diagramme en barres groupées. Cette approche de datavisualisation permettra une comparaison claire et directe des salaires médians par genre, en organisant les barres groupées par domaine d'études. En utilisant ce format, nous visons à offrir une perspective comparative détaillée des écarts de rémunération entre les genres, mettant en lumière les variations significatives dans les parcours professionnels post-diplôme.
-![Salaire annuel brut estimé par genre](file:///C:/Users/Souhila/Downloads/snapshot-1706456338228.svg)
+!["Salaire annuel brut estimé par genre"](file:///C:/Users/Souhila/Downloads/snapshot-1706456338228.svg)
 
 # Diagramme en Barres Groupées pour le Taux d'Insertion Professionnelle selon le Genre :
 
