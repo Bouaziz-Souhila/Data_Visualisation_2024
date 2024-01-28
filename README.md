@@ -13,7 +13,7 @@ En nous plongeant dans l'univers des diplômés de master en France, cette datav
 Le jeu de données que nous avons selectionné contient des informations sur l'insertion professionnelle des diplômés de niveau Master en France. Les informations incluses dans le fichier couvrent divers aspects tels que l'année, le type de diplôme, la situation (18 ou 30 mois après le diplôme), le genre, les disciplines d'étude, les indicateurs d'insertion professionnelle tels que les taux d'insertion, les taux d'emploi, les salaires médians, etc.
 
 
-# Graphique linéaire pour le taux d'insertion professionnelle par domaine d'études :
+# Le taux d'insertion professionnelle par domaine d'études :
 Afin d'illustrer la répartition des diplômés par domaine d'études et de mettre en évidence la proportion de diplômés dans chaque discipline, nous avons choisi d'utiliser un diagramme circulaire. Cette approche nous permettra de visualiser de manière succincte et esthétique la répartition globale des diplômés au sein des différents domaines académiques.
 
 Le choix du diagramme circulaire repose sur notre intention de créer une représentation visuelle claire de la distribution des diplômés. En attribuant à chaque secteur académique une portion du cercle en fonction de sa part relative, nous faciliterons la perception immédiate des proportions et des tendances majeures. Cette visualisation se révèle particulièrement efficace pour communiquer la diversité des domaines d'études parmi les diplômés, offrant ainsi une perspective globale des orientations académiques.
