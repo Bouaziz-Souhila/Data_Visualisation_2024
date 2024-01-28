@@ -12,9 +12,9 @@ En nous plongeant dans l'univers des diplômés de master en France, cette datav
 
 # Présentation du jeu de données : 
 Le jeu de données que nous avons selectionné contient des informations sur l'insertion professionnelle des diplômés de niveau Master en France. Les informations incluses dans le fichier couvrent divers aspects tels que l'année, le type de diplôme, la situation (18 ou 30 mois après le diplôme), le genre, les disciplines d'étude, les indicateurs d'insertion professionnelle tels que les taux d'insertion, les taux d'emploi, les salaires médians, etc.
-(| Année | Diplôme | Situation | Genre | Disciplines | Secteur discipline | Taux d'insertion |
+('| Année | Diplôme | Situation | Genre | Disciplines | Secteur discipline | Taux d'insertion |
 |-------|---------|-----------|-------|-------------|-----------------------|
-| 2024  | MASTER LMD  | 18 mois après le diplôme  | hommes  | Ensemble Masters LMD hors Masters enseignement... | ... |)
+| 2024  | MASTER LMD  | 18 mois après le diplôme  | hommes  | Ensemble Masters LMD hors Masters enseignement... | ... |')
 
 
 # Le taux d'insertion professionnelle par domaine d'études :
