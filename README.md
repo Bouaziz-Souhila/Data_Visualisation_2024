@@ -12,18 +12,14 @@ En nous plongeant dans l'univers des diplômés de master en France, cette datav
 # Présentation du jeu de données : 
 Le jeu de données que nous avons selectionné contient des informations sur l'insertion professionnelle des diplômés de niveau Master en France. Les informations incluses dans le fichier couvrent divers aspects tels que l'année, le type de diplôme, la situation (18 ou 30 mois après le diplôme), le genre, les disciplines d'étude, les indicateurs d'insertion professionnelle tels que les taux d'insertion, les taux d'emploi, les salaires médians, etc.
 
-# Graphique linéaire pour l'insertion professionnelle au fil du temps :
-  Nous optons pour un graphique linéaire car il offre une représentation visuelle claire et continue des tendances, permettant ainsi une observation détaillée des variations et des fluctuations des taux d'emploi au fil des années qui suivent la réussite du programme de master.
 
-  Notre objectif principal avec cette visualisation est de fournir une perspective chronologique de l'insertion professionnelle, offrant ainsi une compréhension approfondie des transitions qui surviennent au fil du temps. En traçant les trajectoires d'emploi sur une échelle temporelle, le graphique linéaire nous permet d'identifier les périodes de croissance, de stagnation ou de déclin dans le domaine professionnel des diplômés. Cette approche temporelle facilitera également la détection de tendances émergentes et la compréhension des facteurs qui influencent l'emploi des diplômés de master, contribuant ainsi à orienter les décisions des étudiants, des universités et des décideurs dans le domaine de l'éducation.
-  !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/6ecdf40f-1c91-4230-afce-d0d4ea645ed6)
-)
-# Diagramme circulaire pour la répartition par domaine d'études :
+# Graphique linéaire pour le taux d'insertion professionnelle par domaine d'études :
 Afin d'illustrer la répartition des diplômés par domaine d'études et de mettre en évidence la proportion de diplômés dans chaque discipline, nous avons choisi d'utiliser un diagramme circulaire. Cette approche nous permettra de visualiser de manière succincte et esthétique la répartition globale des diplômés au sein des différents domaines académiques.
 
 Le choix du diagramme circulaire repose sur notre intention de créer une représentation visuelle claire de la distribution des diplômés. En attribuant à chaque secteur académique une portion du cercle en fonction de sa part relative, nous faciliterons la perception immédiate des proportions et des tendances majeures. Cette visualisation se révèle particulièrement efficace pour communiquer la diversité des domaines d'études parmi les diplômés, offrant ainsi une perspective globale des orientations académiques.
 
-Notre objectif principal avec cette datavisualisation est de présenter de manière engageante la diversité des domaines d'études des diplômés, fournissant ainsi des informations essentielles sur la dynamique académique au sein de 
+ !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/6ecdf40f-1c91-4230-afce-d0d4ea645ed6)
+
 
 # Diagramme en barres des salaires médianes: 
 Afin de comparer les salaires médians des diplômés en fonction de leur domaine d'études et de leur genre, nous avons opté pour l'utilisation d'un diagramme en barres. Cette approche va nous permettre de visualiser de manière efficace les différences de rémunération entre les différents groupes.
