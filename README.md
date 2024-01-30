@@ -39,10 +39,14 @@ Nous avons réalisé un processus de filtrage des données à l'aide d'OpenRefin
 Dans le souci d'éliminer les données inutiles et d'alléger notre jeu, nous avons entrepris des modifications significatives avec OpenRefine. Pour garantir la cohérence des informations, nous avons supprimé les lignes présentant des valeurs vides ou égales à "0" dans la colonne "Taux d’insertion". Nous avons également remplacé les occurrences de "ns" par "0" dans plusieurs colonnes, notamment "Taux d’insertion", "Part des emplois de niveau cadre", "pourcentage emplois extérieurs à la région de l’université", "Part des emplois à temps plein", et "Salaire brut annuel estimé". Ces ajustements ont non seulement éliminé toute ambiguïté, mais aussi amélioré considérablement la qualité de nos données en préparation d'une analyse approfondie, étant donné que les informations manquantes dans les lignes ne sont pas disponibles ailleurs.
 
 Voici quelques extraits des changements apportés au jeu de données : 
-!["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine1.PNG)
-!["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine2.PNG)
-!["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine3.PNG)
 
+!["Historique Json."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine1.PNG)
+!["Historique Json."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine2.PNG)
+!["Historique Json."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine3.PNG)
+
+Voici le résultat de notre jeu de donnés après l'orération de filtrage : 
+
+!["Tableau d'insertion professionnelles des diplomés de master en France."] (https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/aw64t--insertion-professionnelle-des-dipl-m-s-de-master-en-france-copy-.png)
 # Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études :<a name="section3"></a>
 Afin d'illustrer la répartition des diplômés par dicsipline d'études et de mettre en évidence la proportion de diplômés dans chaque discipline, nous avons choisi d'utiliser un diagramme circulaire. Cette approche nous permettra de visualiser de manière succincte et esthétique la répartition globale des diplômés au sein des différentes disciplines académiques.
 
