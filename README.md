@@ -40,7 +40,7 @@ Dans le souci d'éliminer les données inutiles et d'alléger notre jeu, nous av
 
 Voici quelques extraits des changements apportés au jeu de données : 
 !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine1.PNG)
-!["Taux d'insertion professionnelle au fil du temps."]()
+!["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine2.PNG)
 !["Taux d'insertion professionnelle au fil du temps."]()
 
 # Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études :<a name="section3"></a>
