@@ -33,7 +33,7 @@ Afin d'illustrer la répartition des diplômés par dicsipline d'études et de m
 
 Le choix du diagramme circulaire repose sur notre intention de créer une représentation visuelle claire de la distribution des diplômés au fil du temps. En attribuant à chaque secteur académique une portion du cercle en fonction de sa part relative, nous faciliterons la perception immédiate des proportions et des tendances majeures. Cette visualisation se révèle particulièrement efficace pour communiquer la diversité des domaines d'études parmi les diplômés, offrant ainsi une perspective globale des orientations académiques.
 
- !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/6ecdf40f-1c91-4230-afce-d0d4ea645ed6)
+ !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/insertion%20pro%20au%20fil%20du%20temps.svg)
 # Analyse de la Répartition des Diplômés par Genre :<a name="section4"></a>
 
 Pour illustrer la répartition des diplômés par genre et fournir une vue d'ensemble rapide de la proportion de femmes et d'hommes parmi les diplômés, nous avons opté pour l'utilisation d'un diagramme en secteurs. Cette approche permettra une visualisation immédiate de la distribution relative des genres au sein de la population diplômée. En utilisant des secteurs proportionnels, nous offrirons une représentation graphique claire des différences de genre parmi les diplômés, favorisant ainsi une compréhension instantanée de la diversité dans le cadre de l'éducation supérieure
