@@ -4,18 +4,19 @@
 
 # Table des matières :
 
-# Introduction :
-# Collect et enrishisement de données :  
-# Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études : 
-# Analyse de la Répartition des Diplômés par Genre : 
-# Comparaison des Salaires Médians Annuels Estimés par Discipline  : 
-# Comparer les Salaires Médians par Genre : 
-# Analyse Temporelle du Taux de Chômage National par Domaine d'Études :
-# Analyse de la Répartition des Opportunités Professionnelles : 
+ Introduction :
+ Collect et enrishisement de données :  
+ Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études : 
+ Analyse de la Répartition des Diplômés par Genre : 
+ Comparaison des Salaires Médians Annuels Estimés par Discipline  : 
+ Comparer les Salaires Médians par Genre : 
+ Analyse Temporelle du Taux de Chômage National par Domaine d'Études :
+ Analyse de la Répartition des Opportunités Professionnelles : 
 
 
 # Introduction : <a name="section1"></a>
   Dans le paysage éducatif contemporain, l'obtention d'un diplôme de master est souvent perçue comme une étape cruciale dans le cheminement académique, ouvrant les portes à des opportunités professionnelles diverses. Toutefois, le succès de cette transition du monde académique au marché du travail demeure une préoccupation pour les nouveaux diplômés. Ce projet de datavisualisation s'attache à explorer et à analyser l'insertion professionnelle des diplômés de master des universités françaises.
+
 !["Passage vers l'avenir réussi."](https://alumni.ut-capitole.fr/medias/image/16329001225db15e48bfa0f.jpg)
 
 La question de l'insertion professionnelle va au-delà des simples statistiques d'emploi. Elle englobe la diversité des parcours professionnels, les secteurs d'activité privilégiés, les rémunérations, et les défis rencontrés par les diplômés. En examinant de près ces aspects, nous aspirons à apporter une compréhension approfondie des dynamiques de l'emploi post-master, fournissant ainsi des informations cruciales pour les étudiants, les universités, et les acteurs du marché du travail.
@@ -34,6 +35,7 @@ Afin d'illustrer la répartition des diplômés par dicsipline d'études et de m
 Le choix du diagramme circulaire repose sur notre intention de créer une représentation visuelle claire de la distribution des diplômés au fil du temps. En attribuant à chaque secteur académique une portion du cercle en fonction de sa part relative, nous faciliterons la perception immédiate des proportions et des tendances majeures. Cette visualisation se révèle particulièrement efficace pour communiquer la diversité des domaines d'études parmi les diplômés, offrant ainsi une perspective globale des orientations académiques.
 
  !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/insertion%20pro%20au%20fil%20du%20temps.svg)
+
 # Analyse de la Répartition des Diplômés par Genre :<a name="section4"></a>
 
 Pour illustrer la répartition des diplômés par genre et fournir une vue d'ensemble rapide de la proportion de femmes et d'hommes parmi les diplômés, nous avons opté pour l'utilisation d'un diagramme en secteurs. Cette approche permettra une visualisation immédiate de la distribution relative des genres au sein de la population diplômée. En utilisant des secteurs proportionnels, nous offrirons une représentation graphique claire des différences de genre parmi les diplômés, favorisant ainsi une compréhension instantanée de la diversité dans le cadre de l'éducation supérieure
@@ -53,6 +55,7 @@ Notre objectif premier avec cette datavisualisation est d'offrir une compréhens
 # Comparer les Salaires Médians par Genre : <a name="section6"></a>
 
 Pour comparer les salaires médians des diplômés en fonction de leur genre et mettre en évidence les différences de rémunération entre les femmes et les hommes dans différents domaines d'études, nous avons choisi de créer un diagramme en barres groupées. Cette approche de datavisualisation permettra une comparaison claire et directe des salaires médians par genre, en organisant les barres groupées par domaine d'études. En utilisant ce format, nous visons à offrir une perspective comparative détaillée des écarts de rémunération entre les genres, mettant en lumière les variations significatives dans les parcours professionnels post-diplôme.
+
 ![Nom de l'image](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/SALAIREparanneeETGENRE.svg)
 
 
@@ -60,13 +63,15 @@ Pour comparer les salaires médians des diplômés en fonction de leur genre et 
 
 
 ![Nom de l'image](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Salaire_par_domaine.svg)
-Ensuite Nous avons choisi d'utiliser un diagramme en lignes pour représenter le taux de chômage dans différents domaines d'études au fil du temps. Chaque ligne illustre le taux de chômage, permettant une comparaison directe entre les domaines. Cette visualisation offre une perspective détaillée du chômage dans chaque secteur, avec des couleurs distinctes pour faciliter la distinction. L'analyse de cette représentation graphique permettra d'évaluer les variations du taux de chômage et d'identifier les domaines nécessitant d'éventuels ajustements pour favoriser l'égalité professionnelle.
+
+Nous avons choisi d'utiliser un diagramme en lignes pour représenter le taux de chômage dans différents domaines d'études au fil du temps. Chaque ligne illustre le taux de chômage, permettant une comparaison directe entre les domaines. Cette visualisation offre une perspective détaillée du chômage dans chaque secteur, avec des couleurs distinctes pour faciliter la distinction. L'analyse de cette représentation graphique permettra d'évaluer les variations du taux de chômage et d'identifier les domaines nécessitant d'éventuels ajustements pour favoriser l'égalité professionnelle.
 
 ![](votre_fichier.svg)
 
 
 # Analyse de la Répartition des Opportunités Professionnelles : Diagramme de Voronoï selon les Domaines d'Étude et les Emplacements Géographiques <a name="section8"></a>
 Nous avons choisi de mettre en œuvre un Diagramme de Voronoï pour analyser la répartition du pourcentage d'emplois externes à la région de l'université, en tenant compte également de la répartition selon le domaine d'étude. Ce type de diagramme offre une représentation graphique distincte en divisant l'espace en zones délimitées, chacune correspondant à une zone géographique spécifique. Dans ce contexte, les zones représentent non seulement les emplacements géographiques des emplois, mais aussi les domaines d'étude associés. Ainsi, cette visualisation permet d'observer de manière claire et détaillée comment les opportunités professionnelles sont réparties spatialement en fonction des différents domaines d'étude, offrant une perspective approfondie sur la dynamique de l'emploi dans cette région universitaire particulière.
+
 !["Nom de l'image"](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/viz_en_dehors_region_univ%20(1).svg)
 
 
