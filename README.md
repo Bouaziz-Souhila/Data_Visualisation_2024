@@ -64,7 +64,7 @@ Ensuite Nous avons choisi d'utiliser un diagramme en lignes pour représenter le
 
 # Analyse de la Répartition des Opportunités Professionnelles : Diagramme de Voronoï selon les Domaines d'Étude et les Emplacements Géographiques <a name="section8"></a>
 Nous avons choisi de mettre en œuvre un Diagramme de Voronoï pour analyser la répartition du pourcentage d'emplois externes à la région de l'université, en tenant compte également de la répartition selon le domaine d'étude. Ce type de diagramme offre une représentation graphique distincte en divisant l'espace en zones délimitées, chacune correspondant à une zone géographique spécifique. Dans ce contexte, les zones représentent non seulement les emplacements géographiques des emplois, mais aussi les domaines d'étude associés. Ainsi, cette visualisation permet d'observer de manière claire et détaillée comment les opportunités professionnelles sont réparties spatialement en fonction des différents domaines d'étude, offrant une perspective approfondie sur la dynamique de l'emploi dans cette région universitaire particulière.
-!["Nom de l'image"](viz_en_dehors_region_univ (1).svg)
+!["Nom de l'image"](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/viz_en_dehors_region_univ%20(1).svg)
 
 
 # Carte thermique pour les salaires médians par domaine d'études :
