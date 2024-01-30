@@ -50,7 +50,7 @@ Notre objectif premier avec cette datavisualisation est d'offrir une compréhens
 # Comparer les Salaires Médians par Genre : <a name="section6"></a>
 
 Pour comparer les salaires médians des diplômés en fonction de leur genre et mettre en évidence les différences de rémunération entre les femmes et les hommes dans différents domaines d'études, nous avons choisi de créer un diagramme en barres groupées. Cette approche de datavisualisation permettra une comparaison claire et directe des salaires médians par genre, en organisant les barres groupées par domaine d'études. En utilisant ce format, nous visons à offrir une perspective comparative détaillée des écarts de rémunération entre les genres, mettant en lumière les variations significatives dans les parcours professionnels post-diplôme.
-![Nom de l'image](votre_fichier.svg)
+![Nom de l'image](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/SALAIREparanneeETGENRE.svg)
 
 
 # Analyse Temporelle du Taux de Chômage National par Domaine d'Études : <a name="section7"></a>
