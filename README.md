@@ -8,17 +8,16 @@ theme: jekyll-theme-cayman
 
 # Analyse de l'insertion professionnelle des diplômés de l'enseignement supérieur en France : Tendances, disparités et perspectives
 
-# Table des matières :
+# Table des matières
 
- Introduction :
- Collect et enrishisement de données :  
- Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études : 
- Analyse de la Répartition des Diplômés par Genre : 
- Comparaison des Salaires Médians Annuels Estimés par Discipline  : 
- Comparer les Salaires Médians par Genre : 
- Analyse Temporelle du Taux de Chômage National par Domaine d'Études :
- Analyse de la Répartition des Opportunités Professionnelles : 
-
+- [Introduction](#introduction)
+- [Collecte et Enrichissement de Données](#collecte-et-enrichissement-de-données)
+- [Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études](#analyse-comparative-du-taux-dinsertion-professionnelle-selon-les-domaines-détudes)
+- [Analyse de la Répartition des Diplômés par Genre](#analyse-de-la-répartition-des-diplômés-par-genre)
+- [Comparaison des Salaires Médians Annuels Estimés par Discipline](#comparaison-des-salaires-médians-annuels-estimés-par-discipline)
+- [Comparer les Salaires Médians par Genre](#comparer-les-salaires-médians-par-genre)
+- [Analyse Temporelle du Taux de Chômage National par Domaine d'Études](#analyse-temporelle-du-taux-de-chômage-national-par-domaine-détudes)
+- [Analyse de la Répartition des Opportunités Professionnelles](#analyse-de-la-répartition-des-opportunités-professionnelles)
 
 # Introduction : <a name="section1"></a>
   Dans le paysage éducatif contemporain, l'obtention d'un diplôme de master est souvent perçue comme une étape cruciale dans le cheminement académique, ouvrant les portes à des opportunités professionnelles diverses. Toutefois, le succès de cette transition du monde académique au marché du travail demeure une préoccupation pour les nouveaux diplômés. Ce projet de datavisualisation s'attache à explorer et à analyser l'insertion professionnelle des diplômés de master des universités françaises.
@@ -66,7 +65,6 @@ Pour comparer les salaires médians des diplômés en fonction de leur genre et 
 
 
 # Analyse Temporelle du Taux de Chômage National par Domaine d'Études : <a name="section7"></a>
-
 
 ![Nom de l'image](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Salaire_par_domaine.svg)
 
