@@ -53,8 +53,17 @@ Pour comparer les salaires médians des diplômés en fonction de leur genre et 
 !["Salaire annuel brut estimé par genre"](file:///C:/Users/Souhila/Downloads/snapshot-1706456338228.svg)
 <img src="chemin/vers/votre/fichier.svg" alt="Description alternative"/>
 
-# Diagramme en Barres Groupées pour le Taux de chomage nationale au fil du temps selon les domaines :
+# Diagramme en Lignes pour examiner le Taux de chomage nationale au fil du temps selon les domaines :
 Pour examiner de près l'évolution du taux de chômage de 2015 à 2020, nous avons créé un diagramme en lignes. Cette représentation graphique permet une analyse chronologique des variations du taux de chômage au fil du temps, offrant ainsi un aperçu succinct mais précis de la situation sur cette période.
-Visualisation 1
+Vizualisation 1 : 
 Ensuite Nous avons choisi d'utiliser un diagramme en lignes pour représenter le taux de chômage dans différents domaines d'études au fil du temps. Chaque ligne illustre le taux de chômage, permettant une comparaison directe entre les domaines. Cette visualisation offre une perspective détaillée du chômage dans chaque secteur, avec des couleurs distinctes pour faciliter la distinction. L'analyse de cette représentation graphique permettra d'évaluer les variations du taux de chômage et d'identifier les domaines nécessitant d'éventuels ajustements pour favoriser l'égalité professionnelle.
-Visualisation 2
+Vizualisation 2
+
+# Analyse de la Répartition des Opportunités Professionnelles : Diagramme de Voronoï selon les Domaines d'Étude et les Emplacements Géographiques
+Nous avons choisi de mettre en œuvre un Diagramme de Voronoï pour analyser la répartition du pourcentage d'emplois externes à la région de l'université, en tenant compte également de la répartition selon le domaine d'étude. Ce type de diagramme offre une représentation graphique distincte en divisant l'espace en zones délimitées, chacune correspondant à une zone géographique spécifique. Dans ce contexte, les zones représentent non seulement les emplacements géographiques des emplois, mais aussi les domaines d'étude associés. Ainsi, cette visualisation permet d'observer de manière claire et détaillée comment les opportunités professionnelles sont réparties spatialement en fonction des différents domaines d'étude, offrant une perspective approfondie sur la dynamique de l'emploi dans cette région universitaire particulière.
+Vizualisation 1
+
+
+
+
+
