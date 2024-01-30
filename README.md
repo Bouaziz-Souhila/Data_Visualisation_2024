@@ -1,7 +1,5 @@
 ---
-layout: default
-title: Data_Visualisation_2024
-En Route Vers le Monde Professionnel : Explorez Votre Trajectoire avec Nous!
+title: Data_Visualisation_2024 En Route Vers le Monde Professionnel : Explorez Votre Trajectoire avec Nous!
 theme: jekyll-theme-cayman
 ---
 
