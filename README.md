@@ -46,7 +46,8 @@ Voici quelques extraits des changements apportés au jeu de données :
 
 Voici le résultat de notre jeu de donnés après l'orération de filtrage : 
 
-!["Tableau d'insertion professionnelles des diplomés de master en France."] (https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/aw64t--insertion-professionnelle-des-dipl-m-s-de-master-en-france-copy-.png)
+!["Tableau d'insertion professionnelles des diplomés de master en France."](https://app.datawrapper.de/chart/GLbmE/edit)
+
 # Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études :<a name="section3"></a>
 Afin d'illustrer la répartition des diplômés par dicsipline d'études et de mettre en évidence la proportion de diplômés dans chaque discipline, nous avons choisi d'utiliser un diagramme circulaire. Cette approche nous permettra de visualiser de manière succincte et esthétique la répartition globale des diplômés au sein des différentes disciplines académiques.
 
