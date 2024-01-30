@@ -50,13 +50,13 @@ Notre objectif premier avec cette datavisualisation est d'offrir une compréhens
 # Comparer les Salaires Médians par Genre : <a name="section6"></a>
 
 Pour comparer les salaires médians des diplômés en fonction de leur genre et mettre en évidence les différences de rémunération entre les femmes et les hommes dans différents domaines d'études, nous avons choisi de créer un diagramme en barres groupées. Cette approche de datavisualisation permettra une comparaison claire et directe des salaires médians par genre, en organisant les barres groupées par domaine d'études. En utilisant ce format, nous visons à offrir une perspective comparative détaillée des écarts de rémunération entre les genres, mettant en lumière les variations significatives dans les parcours professionnels post-diplôme.
-![Nom de l'image](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Salaire_par_domaine.svg)
+![Nom de l'image](votre_fichier.svg)
 
 
 # Analyse Temporelle du Taux de Chômage National par Domaine d'Études : <a name="section7"></a>
 Pour examiner de près l'évolution du taux de chômage de 2015 à 2020, nous avons créé un diagramme en lignes. Cette représentation graphique permet une analyse chronologique des variations du taux de chômage au fil du temps, offrant ainsi un aperçu succinct mais précis de la situation sur cette période.
-![Nom de l'image](votre_fichier.svg)
 
+![Nom de l'image](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Salaire_par_domaine.svg)
 Ensuite Nous avons choisi d'utiliser un diagramme en lignes pour représenter le taux de chômage dans différents domaines d'études au fil du temps. Chaque ligne illustre le taux de chômage, permettant une comparaison directe entre les domaines. Cette visualisation offre une perspective détaillée du chômage dans chaque secteur, avec des couleurs distinctes pour faciliter la distinction. L'analyse de cette représentation graphique permettra d'évaluer les variations du taux de chômage et d'identifier les domaines nécessitant d'éventuels ajustements pour favoriser l'égalité professionnelle.
 
 ![](votre_fichier.svg)
