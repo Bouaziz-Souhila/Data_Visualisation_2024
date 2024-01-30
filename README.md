@@ -48,7 +48,7 @@ Le choix du diagramme en barres se justifie par notre désir de créer une repr�
 
 Notre objectif premier avec cette datavisualisation est d'offrir une compréhension visuelle immédiate des écarts salariaux, favorisant ainsi une réflexion approfondie sur les aspects liés à l'équité et à la diversité au sein des parcours professionnels post-diplôme. Le diagramme en barres se présente ainsi comme un outil graphique puissant pour illustrer et communiquer de manière concise ces différences salariales significatives.
 
-!["Slaire annuel estimé par discipline."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/a7a08946-b3e6-4a96-958e-3e1320f69d66)
+!["Slaire annuel estimé par discipline."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Salaires%20annuel%20par%20discipline.svg)
 
 # Comparer les Salaires Médians par Genre : <a name="section6"></a>
 
