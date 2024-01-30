@@ -50,18 +50,22 @@ Notre objectif premier avec cette datavisualisation est d'offrir une compréhens
 # Comparer les Salaires Médians par Genre : <a name="section6"></a>
 
 Pour comparer les salaires médians des diplômés en fonction de leur genre et mettre en évidence les différences de rémunération entre les femmes et les hommes dans différents domaines d'études, nous avons choisi de créer un diagramme en barres groupées. Cette approche de datavisualisation permettra une comparaison claire et directe des salaires médians par genre, en organisant les barres groupées par domaine d'études. En utilisant ce format, nous visons à offrir une perspective comparative détaillée des écarts de rémunération entre les genres, mettant en lumière les variations significatives dans les parcours professionnels post-diplôme.
-!["Salaire annuel brut estimé par genre"](file:///C:/Users/Souhila/Downloads/snapshot-1706456338228.svg)
-<img src="chemin/vers/votre/fichier.svg" alt="Description alternative"/>
+![Nom de l'image](votre_fichier.svg)
+
 
 # Analyse Temporelle du Taux de Chômage National par Domaine d'Études : <a name="section7"></a>
 Pour examiner de près l'évolution du taux de chômage de 2015 à 2020, nous avons créé un diagramme en lignes. Cette représentation graphique permet une analyse chronologique des variations du taux de chômage au fil du temps, offrant ainsi un aperçu succinct mais précis de la situation sur cette période.
-Vizualisation 1 : 
+![Nom de l'image](votre_fichier.svg)
+
 Ensuite Nous avons choisi d'utiliser un diagramme en lignes pour représenter le taux de chômage dans différents domaines d'études au fil du temps. Chaque ligne illustre le taux de chômage, permettant une comparaison directe entre les domaines. Cette visualisation offre une perspective détaillée du chômage dans chaque secteur, avec des couleurs distinctes pour faciliter la distinction. L'analyse de cette représentation graphique permettra d'évaluer les variations du taux de chômage et d'identifier les domaines nécessitant d'éventuels ajustements pour favoriser l'égalité professionnelle.
-Vizualisation 2
+
+![](votre_fichier.svg)
+
 
 # Analyse de la Répartition des Opportunités Professionnelles : Diagramme de Voronoï selon les Domaines d'Étude et les Emplacements Géographiques <a name="section8"></a>
 Nous avons choisi de mettre en œuvre un Diagramme de Voronoï pour analyser la répartition du pourcentage d'emplois externes à la région de l'université, en tenant compte également de la répartition selon le domaine d'étude. Ce type de diagramme offre une représentation graphique distincte en divisant l'espace en zones délimitées, chacune correspondant à une zone géographique spécifique. Dans ce contexte, les zones représentent non seulement les emplacements géographiques des emplois, mais aussi les domaines d'étude associés. Ainsi, cette visualisation permet d'observer de manière claire et détaillée comment les opportunités professionnelles sont réparties spatialement en fonction des différents domaines d'étude, offrant une perspective approfondie sur la dynamique de l'emploi dans cette région universitaire particulière.
-Vizualisation 1
+![Nom de l'image](votre_fichier.svg)
+
 
 # Carte thermique pour les salaires médians par domaine d'études :
 Pour visualiser les salaires annuels médians des diplômés dans différents domaines d'études et offrir une représentation visuelle rapide des niveaux de rémunération, nous avons fait le choix d'utiliser une carte thermique. Cette approche nous permettra de créer une représentation graphique dynamique où les variations de salaires seront rapidement perceptibles, offrant ainsi une compréhension immédiate des écarts de rémunération.
