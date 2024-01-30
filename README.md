@@ -19,12 +19,14 @@ Le jeu de données que nous avons selectionné contient des informations sur l'i
 
 
 # Le taux d'insertion professionnelle par domaine d'études :
-Afin d'illustrer la répartition des diplômés par domaine d'études et de mettre en évidence la proportion de diplômés dans chaque discipline, nous avons choisi d'utiliser un diagramme circulaire. Cette approche nous permettra de visualiser de manière succincte et esthétique la répartition globale des diplômés au sein des différents domaines académiques.
+Afin d'illustrer la répartition des diplômés par dicsipline d'études et de mettre en évidence la proportion de diplômés dans chaque discipline, nous avons choisi d'utiliser un diagramme circulaire. Cette approche nous permettra de visualiser de manière succincte et esthétique la répartition globale des diplômés au sein des différentes disciplines académiques.
 
-Le choix du diagramme circulaire repose sur notre intention de créer une représentation visuelle claire de la distribution des diplômés. En attribuant à chaque secteur académique une portion du cercle en fonction de sa part relative, nous faciliterons la perception immédiate des proportions et des tendances majeures. Cette visualisation se révèle particulièrement efficace pour communiquer la diversité des domaines d'études parmi les diplômés, offrant ainsi une perspective globale des orientations académiques.
+Le choix du diagramme circulaire repose sur notre intention de créer une représentation visuelle claire de la distribution des diplômés au fil du temps. En attribuant à chaque secteur académique une portion du cercle en fonction de sa part relative, nous faciliterons la perception immédiate des proportions et des tendances majeures. Cette visualisation se révèle particulièrement efficace pour communiquer la diversité des domaines d'études parmi les diplômés, offrant ainsi une perspective globale des orientations académiques.
 
  !["Taux d'insertion professionnelle au fil du temps."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/assets/129739665/6ecdf40f-1c91-4230-afce-d0d4ea645ed6)
+# Diagramme en Secteurs pour la Répartition des Diplômés par Genre :
 
+Pour illustrer la répartition des diplômés par genre et fournir une vue d'ensemble rapide de la proportion de femmes et d'hommes parmi les diplômés, nous avons opté pour l'utilisation d'un diagramme en secteurs. Cette approche permettra une visualisation immédiate de la distribution relative des genres au sein de la population diplômée. En utilisant des secteurs proportionnels, nous offrirons une représentation graphique claire des différences de genre parmi les diplômés, favorisant ainsi une compréhension instantanée de la diversité dans le cadre de l'éducation supérieure
 
 # Diagramme en barres des salaires médianes annuel estimé par dicsipline : 
 Afin de comparer les salaires médians des diplômés en fonction de leur domaine d'études, nous avons opté pour l'utilisation d'un diagramme en barres. Cette approche va nous permettre de visualiser de manière efficace les différences de rémunération entre les différents groupes.
@@ -39,15 +41,11 @@ Notre objectif premier avec cette datavisualisation est d'offrir une compréhens
 !["Répartition des domaines d'étude à l'université de paris nanterre au fil du temps"](https://data.opendatasoft.com/explore/embed/dataset/fr-esr-insertion_professionnelle-master@mesr/analyze/?disjunctive.numero_de_l_etablissement&disjunctive.academie&sort=-annee&refine.diplome=MASTER%20LMD&refine.etablissement=Paris%20Nanterre&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZyLWVzci1pbnNlcnRpb25fcHJvZmVzc2lvbm5lbGxlLW1hc3RlckBtZXNyIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5udW1lcm9fZGVfbF9ldGFibGlzc2VtZW50Ijp0cnVlLCJkaXNqdW5jdGl2ZS5hY2FkZW1pZSI6dHJ1ZSwic29ydCI6Ii1hbm5lZSIsInJlZmluZS5kaXBsb21lIjoiTUFTVEVSIExNRCIsInJlZmluZS5ldGFibGlzc2VtZW50IjoiUGFyaXMgTmFudGVycmUifX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1jdXN0b20ifV0sInhBeGlzIjoiYW5uZWUiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoiZG9tYWluZSIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiJ9XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false)
 
 # Carte thermique pour les salaires médians par domaine d'études :
-Pour visualiser les salaires médians des diplômés dans différents domaines d'études et offrir une représentation visuelle rapide des niveaux de rémunération, nous avons fait le choix d'utiliser une carte thermique. Cette approche nous permettra de créer une représentation graphique dynamique où les variations de salaires seront rapidement perceptibles, offrant ainsi une compréhension immédiate des écarts de rémunération.
+Pour visualiser les salaires annuels médians des diplômés dans différents domaines d'études et offrir une représentation visuelle rapide des niveaux de rémunération, nous avons fait le choix d'utiliser une carte thermique. Cette approche nous permettra de créer une représentation graphique dynamique où les variations de salaires seront rapidement perceptibles, offrant ainsi une compréhension immédiate des écarts de rémunération.
 
 Le recours à une carte thermique trouve sa justification dans notre volonté de fournir une représentation visuelle détaillée des différences de salaires médians. En utilisant des nuances de couleurs pour indiquer les niveaux de rémunération dans chaque domaine d'études, nous créerons une visualisation complexe, mais accessible, permettant une analyse approfondie des disparités salariales entre les disciplines académiques.
 
 Notre objectif principal avec cette datavisualisation est de présenter de manière percutante les écarts de salaires médians entre les domaines d'études, incitant ainsi à une réflexion approfondie sur les dynamiques salariales au sein de la population diplômée. La carte thermique se révèle ainsi comme un outil visuel puissant pour mettre en avant ces variations de manière impactante.
-
-# Diagramme en Secteurs (Camembert) pour la Répartition des Diplômés par Genre :
-
-Pour illustrer la répartition des diplômés par genre et fournir une vue d'ensemble rapide de la proportion de femmes et d'hommes parmi les diplômés, nous avons opté pour l'utilisation d'un diagramme en secteurs (camembert). Cette approche permettra une visualisation immédiate de la distribution relative des genres au sein de la population diplômée. En utilisant des secteurs proportionnels, nous offrirons une représentation graphique claire des différences de genre parmi les diplômés, favorisant ainsi une compréhension instantanée de la diversité dans le cadre de l'éducation supérieure.
 
 # Comparer les Salaires Médians par Genre :
 
@@ -55,9 +53,8 @@ Pour comparer les salaires médians des diplômés en fonction de leur genre et 
 !["Salaire annuel brut estimé par genre"](file:///C:/Users/Souhila/Downloads/snapshot-1706456338228.svg)
 <img src="chemin/vers/votre/fichier.svg" alt="Description alternative"/>
 
-# Diagramme en Barres Groupées pour le Taux d'Insertion Professionnelle selon le Genre :
-
-Nous avons choisi d'utiliser un diagramme en barres groupées pour illustrer le taux d'insertion professionnelle selon le genre. Chaque barre groupée représente le taux d'insertion professionnel, différencié entre les femmes et les hommes, dans divers domaines d'études. Cette visualisation offre une comparaison directe des taux d'insertion professionnelle entre les genres, mettant en évidence les différences potentielles dans l'entrée sur le marché du travail après l'obtention du diplôme.
-
-Les barres groupées sont organisées par domaine d'études, offrant ainsi une vue détaillée du taux d'insertion professionnel dans chaque secteur. Les couleurs distinctes pour les genres facilitent l'identification visuelle des tendances et des disparités. Cette visualisation permettra non seulement de quantifier les variations du taux d'insertion professionnelle, mais également d'identifier les domaines où des efforts supplémentaires peuvent être nécessaires pour favoriser l'égalité des chances entre les genres dans le monde professionnel.
-
+# Diagramme en Barres Groupées pour le Taux de chomage nationale au fil du temps selon les domaines :
+Pour examiner de près l'évolution du taux de chômage de 2015 à 2020, nous avons créé un diagramme en lignes. Cette représentation graphique permet une analyse chronologique des variations du taux de chômage au fil du temps, offrant ainsi un aperçu succinct mais précis de la situation sur cette période.
+Visualisation 1
+Ensuite Nous avons choisi d'utiliser un diagramme en lignes pour représenter le taux de chômage dans différents domaines d'études au fil du temps. Chaque ligne illustre le taux de chômage, permettant une comparaison directe entre les domaines. Cette visualisation offre une perspective détaillée du chômage dans chaque secteur, avec des couleurs distinctes pour faciliter la distinction. L'analyse de cette représentation graphique permettra d'évaluer les variations du taux de chômage et d'identifier les domaines nécessitant d'éventuels ajustements pour favoriser l'égalité professionnelle.
+Visualisation 2
