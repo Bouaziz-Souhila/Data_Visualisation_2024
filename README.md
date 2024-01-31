@@ -32,7 +32,7 @@ Dans le souci d'éliminer les données inutiles et d'alléger notre jeu, nous av
 
 Voici le lien vers l'historique des changements apportés au jeu de données : 
 
-!["Historique Json."](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/history%20(2).json)
+[Historique des changements](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/history%20(2).json)
 
 Voici le résultat de notre jeu de donnés après l'orération de filtrage : 
 
