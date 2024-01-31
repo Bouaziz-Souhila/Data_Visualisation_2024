@@ -3,9 +3,8 @@
 # Table des matières
 
 - [Introduction](#introduction)
-- [Collecte et Enrichissement de Données](#collecte-et-enrichissement-de-données)
+- [Collecte et filtrage de Données](#collecte-et-filtrage-de-données)
 - [Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études](#analyse-comparative-du-taux-dinsertion-professionnelle-selon-les-domaines-détudes)
-- [Analyse de la Répartition des Diplômés par Genre](#analyse-de-la-répartition-des-diplômés-par-genre)
 - [Comparaison des Salaires Médians Annuels Estimés par Discipline](#comparaison-des-salaires-médians-annuels-estimés-par-discipline)
 - [Comparer les Salaires Médians par Genre](#comparer-les-salaires-médians-par-genre)
 - [Analyse Temporelle du Taux de Chômage National par Domaine d'Études](#analyse-temporelle-du-taux-de-chômage-national-par-domaine-détudes)
@@ -22,7 +21,7 @@ La question de l'insertion professionnelle va au-delà des simples statistiques 
 
 En nous plongeant dans l'univers des diplômés de master en France, cette datavisualisation aspire à être un outil informatif et révélateur, contribuant ainsi à la discussion continue sur l'efficacité des programmes de master et à la préparation des étudiants aux défis de la vie professionnelle.
 
-# Collecte et enrichissement de données : 
+# Collecte et filtrage de données : 
 
 Le jeu de données que nous avons selectionné provient du site https://data.enseignementsup-recherche.gouv.fr/pages/home qui est la plateforme de données ouvertes du ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation en France. Cette plateforme fournit un accès à un large éventail de données relatives à l'enseignement supérieur, à la recherche et à l'innovation. Le jeu de données selectionné contient des informations sur l'insertion professionnelle des diplômés de niveau Master en France. Les informations incluses dans le fichier couvrent divers aspects tels que l'année, le type de diplôme, la situation (18 ou 30 mois après le diplôme), le genre, les disciplines d'étude, les indicateurs d'insertion professionnelle tels que les taux d'insertion, les taux d'emploi, les salaires médians, etc.
 
