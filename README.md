@@ -53,7 +53,9 @@ Pour illustrer la répartition des diplômés par genre et fournir une vue d'ens
 
 # Comparaison des Salaires Médians Annuels Estimés par Discipline  :
 Pour examiner de près l'évolution du salaire annuel de 2015 à 2020, nous avons créé un diagramme en lignes. Cette représentation graphique permet une analyse chronologique des variations du salaire estimé au fil du temps, offrant ainsi un aperçu succinct mais précis de la situation sur cette période.
-!["Nom de l'image"](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/Salaire_par_domaine.svg)
+
+!["titre"](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/Salaire_par_domaine.svg)
+
 Ensuite, nous avons voulu comparer les salaires médians des diplômés en fonction de leur domaine d'études, nous avons opté pour l'utilisation d'un diagramme en barres. Cette approche va nous permettre de visualiser de manière efficace les différences de rémunération entre les différents groupes.
 Le choix du diagramme en barres se justifie par notre désir de créer une représentation graphique claire et comparative des salaires médians. En disposant les barres côte à côte, nous pourrons aisément observer et analyser les disparités salariales, que ce soit par discipline académique ou par genre. Cette visualisation s'avère particulièrement pertinente pour mettre en lumière des tendances significatives et fournir des informations essentielles sur les dynamiques salariales au sein de la population diplômée.
 
