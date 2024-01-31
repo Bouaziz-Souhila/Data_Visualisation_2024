@@ -1,4 +1,3 @@
- # Analyse de l'insertion professionnelle des diplômés de l'enseignement supérieur en France : Tendances, disparités et perspectives
 
 # Table des matières
 
@@ -75,7 +74,9 @@ Ensuite, nous avons aussi chsoisi une autre visualisation dite, hiérarchique (H
 # Analyse de la Répartition des Opportunités Professionnelles : Diagramme de Voronoï selon les Domaines d'Étude et les Emplacements Géographiques 
 Nous avons choisi de mettre en œuvre un Diagramme de Voronoï pour analyser la répartition du pourcentage d'emplois externes à la région de l'université, en tenant compte également de la répartition selon le domaine d'étude. Ce type de diagramme offre une représentation graphique distincte en divisant l'espace en zones délimitées, chacune correspondant à une zone géographique spécifique. Dans ce contexte, les zones représentent non seulement les emplacements géographiques des emplois, mais aussi les domaines d'étude associés. Ainsi, cette visualisation permet d'observer de manière claire et détaillée comment les opportunités professionnelles sont réparties spatialement en fonction des différents domaines d'étude, offrant une perspective approfondie sur la dynamique de l'emploi dans cette région universitaire particulière.
 
-!["titre"]()
+!["titre"](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/viz_en_dehors_region_univ%20(1).svg)
 
+Ensuite nous avons aussi une autre visualisation qui montre le prourcentage d'insertion extérieur à la région de l'université filtré par domaine d'étude et par année.
 
+<iframe src='https://flo.uri.sh/visualisation/16641350/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16641350/?utm_source=embed&utm_campaign=visualisation/16641350' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
