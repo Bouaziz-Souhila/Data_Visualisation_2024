@@ -1,12 +1,4 @@
----
-layout: default
-title: "En Route Vers le Monde Professionnel :  Explorez Votre Trajectoire avec Nous!"
-theme: jekyll-theme-cayman
----
-
- 
-
-# Analyse de l'insertion professionnelle des diplômés de l'enseignement supérieur en France : Tendances, disparités et perspectives
+ # Analyse de l'insertion professionnelle des diplômés de l'enseignement supérieur en France : Tendances, disparités et perspectives
 
 # Table des matières
 
