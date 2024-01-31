@@ -1,0 +1,231 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "Salaire net mensuel national 3ème quartile",
+    "description": "Remove column Salaire net mensuel national 3ème quartile"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Salaire net mensuel national 1er quartile",
+    "description": "Remove column Salaire net mensuel national 1er quartile"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "% emplois extérieurs à la région de l’université",
+    "newColumnName": "pourcentage emplois extérieurs à la région de l’université",
+    "description": "Rename column % emplois extérieurs à la région de l’université to pourcentage emplois extérieurs à la région de l’université"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Part des emplois de niveau cadre ou profession intermédiaire",
+    "description": "Remove column Part des emplois de niveau cadre ou profession intermédiaire"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Valeurs vides par colonne",
+          "expression": "filter(row.columnNames,cn,isBlank(cells[cn].value))",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Taux d’insertion",
+                "l": "Taux d’insertion"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Taux d’insertion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ns"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0"
+      }
+    ],
+    "description": "Mass edit cells in column Taux d’insertion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Taux d’insertion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "nd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0"
+      }
+    ],
+    "description": "Mass edit cells in column Taux d’insertion"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Taux d’insertion",
+          "expression": "value",
+          "columnName": "Taux d’insertion",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "0",
+                "l": "0"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Part des emplois de niveau cadre",
+          "expression": "value",
+          "columnName": "Part des emplois de niveau cadre",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ns",
+                "l": "ns"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "pourcentage emplois extérieurs à la région de l’université",
+          "expression": "value",
+          "columnName": "pourcentage emplois extérieurs à la région de l’université",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ns",
+                "l": "ns"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Part des emplois à temps plein",
+          "expression": "value",
+          "columnName": "Part des emplois à temps plein",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ns",
+                "l": "ns"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Salaire brut annuel estimé",
+          "expression": "value",
+          "columnName": "Salaire brut annuel estimé",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ns",
+                "l": "ns"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  }
+]
