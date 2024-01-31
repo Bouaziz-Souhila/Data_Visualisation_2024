@@ -33,8 +33,6 @@ Dans le souci d'éliminer les données inutiles et d'alléger notre jeu, nous av
 Voici quelques extraits des changements apportés au jeu de données : 
 
 !["Historique Json."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine1.PNG)
-!["Historique Json."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine2.PNG)
-!["Historique Json."](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Capture_historique_open_refine3.PNG)
 
 Voici le résultat de notre jeu de donnés après l'orération de filtrage : 
 
