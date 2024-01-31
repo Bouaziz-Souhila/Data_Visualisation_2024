@@ -64,12 +64,12 @@ Pour comparer les salaires médians des diplômés en fonction de leur genre et 
 !["Titre"](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/SALAIREparanneeETGENRE.svg)
 
 
-# Analyse Temporelle du Taux de Chômage National par Domaine d'Études : 
+# Analyse Temporelle du Taux de Chômage National par Domaine d'Études et par Genre: 
 
 Nous avons choisi d'utiliser un diagramme en lignes pour représenter le taux de chômage dans différents domaines d'études au fil du temps. Chaque ligne illustre le taux de chômage, permettant une comparaison directe entre les domaines. Cette visualisation offre une perspective détaillée du chômage dans chaque secteur, avec des couleurs distinctes pour faciliter la distinction. L'analyse de cette représentation graphique permettra d'évaluer les variations du taux de chômage et d'identifier les domaines nécessitant d'éventuels ajustements pour favoriser l'égalité professionnelle.
 !["titre"](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/Salaire_par_domaine.svg)
 
-Ensuite, nous avons aussi chsoisi un 
+Ensuite, nous avons aussi chsoisi une autre visualisation dite, hiérarchique (Hierarchy), pour représenter le taux de chômage en fonction du genre. Cette approche de datavisualisation, basée sur un modèle de regroupement des données et de représentation hiérarchique, offre une perspective structurée du taux de chômage. En utilisant cette template, j'ai pu explorer les relations entre différentes catégories liées au genre, permettant ainsi une analyse approfondie des variations du taux de chômage au sein de chaque groupe spécifique. Cette méthode de visualisation offre une compréhension plus détaillée et nuancée des disparités de chômage entre hommes et femmes. 
 <iframe src='https://flo.uri.sh/visualisation/16606237/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16606237/?utm_source=embed&utm_campaign=visualisation/16606237' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 # Analyse de la Répartition des Opportunités Professionnelles : Diagramme de Voronoï selon les Domaines d'Étude et les Emplacements Géographiques 
