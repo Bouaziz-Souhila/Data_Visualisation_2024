@@ -54,7 +54,7 @@ Pour illustrer la répartition des diplômés par genre et fournir une vue d'ens
 # Comparaison des Salaires Médians Annuels Estimés par Discipline  :
 Pour examiner de près l'évolution du salaire annuel de 2015 à 2020, nous avons créé un diagramme en lignes. Cette représentation graphique permet une analyse chronologique des variations du salaire estimé au fil du temps, offrant ainsi un aperçu succinct mais précis de la situation sur cette période.
 
-!["titre"](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/Salaire_par_domaine.svg)
+!["titre"]()
 
 Ensuite, nous avons voulu comparer les salaires médians des diplômés en fonction de leur domaine d'études, nous avons opté pour l'utilisation d'un diagramme en barres. Cette approche va nous permettre de visualiser de manière efficace les différences de rémunération entre les différents groupes.
 Le choix du diagramme en barres se justifie par notre désir de créer une représentation graphique claire et comparative des salaires médians. En disposant les barres côte à côte, nous pourrons aisément observer et analyser les disparités salariales, que ce soit par discipline académique ou par genre. Cette visualisation s'avère particulièrement pertinente pour mettre en lumière des tendances significatives et fournir des informations essentielles sur les dynamiques salariales au sein de la population diplômée.
@@ -72,26 +72,15 @@ Pour comparer les salaires médians des diplômés en fonction de leur genre et 
 
 # Analyse Temporelle du Taux de Chômage National par Domaine d'Études : 
 
-![Nom de l'image](https://github.com/Bouaziz-Souhila/Data_Visualisation_2024/blob/main/Salaire_par_domaine.svg)
+!["titre"](https://raw.githubusercontent.com/Bouaziz-Souhila/Data_Visualisation_2024/main/Salaire_par_domaine.svg)
 
 Nous avons choisi d'utiliser un diagramme en lignes pour représenter le taux de chômage dans différents domaines d'études au fil du temps. Chaque ligne illustre le taux de chômage, permettant une comparaison directe entre les domaines. Cette visualisation offre une perspective détaillée du chômage dans chaque secteur, avec des couleurs distinctes pour faciliter la distinction. L'analyse de cette représentation graphique permettra d'évaluer les variations du taux de chômage et d'identifier les domaines nécessitant d'éventuels ajustements pour favoriser l'égalité professionnelle.
-
-![](votre_fichier.svg)
 
 
 # Analyse de la Répartition des Opportunités Professionnelles : Diagramme de Voronoï selon les Domaines d'Étude et les Emplacements Géographiques 
 Nous avons choisi de mettre en œuvre un Diagramme de Voronoï pour analyser la répartition du pourcentage d'emplois externes à la région de l'université, en tenant compte également de la répartition selon le domaine d'étude. Ce type de diagramme offre une représentation graphique distincte en divisant l'espace en zones délimitées, chacune correspondant à une zone géographique spécifique. Dans ce contexte, les zones représentent non seulement les emplacements géographiques des emplois, mais aussi les domaines d'étude associés. Ainsi, cette visualisation permet d'observer de manière claire et détaillée comment les opportunités professionnelles sont réparties spatialement en fonction des différents domaines d'étude, offrant une perspective approfondie sur la dynamique de l'emploi dans cette région universitaire particulière.
 
-
-
-
-# Carte thermique pour les salaires médians par domaine d'études :
-Pour visualiser les salaires annuels médians des diplômés dans différents domaines d'études et offrir une représentation visuelle rapide des niveaux de rémunération, nous avons fait le choix d'utiliser une carte thermique. Cette approche nous permettra de créer une représentation graphique dynamique où les variations de salaires seront rapidement perceptibles, offrant ainsi une compréhension immédiate des écarts de rémunération.
-
-Le recours à une carte thermique trouve sa justification dans notre volonté de fournir une représentation visuelle détaillée des différences de salaires médians. En utilisant des nuances de couleurs pour indiquer les niveaux de rémunération dans chaque domaine d'études, nous créerons une visualisation complexe, mais accessible, permettant une analyse approfondie des disparités salariales entre les disciplines académiques.
-
-Notre objectif principal avec cette datavisualisation est de présenter de manière percutante les écarts de salaires médians entre les domaines d'études, incitant ainsi à une réflexion approfondie sur les dynamiques salariales au sein de la population diplômée. La carte thermique se révèle ainsi comme un outil visuel puissant pour mettre en avant ces variations de manière impactante.
-
+!["titre"]()
 
 
 
