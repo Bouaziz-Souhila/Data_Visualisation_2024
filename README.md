@@ -36,8 +36,7 @@ Voici quelques extraits des changements apportés au jeu de données :
 
 Voici le résultat de notre jeu de donnés après l'orération de filtrage : 
 
-!["Tableau d'insertion professionnelles des diplomés de master en France."]<iframe title="[ Insertion Professionnelle des diplômés de Master en France : ] (Copy)" aria-label="Table" id="datawrapper-chart-aw64t" src="https://datawrapper.dwcdn.net/aw64t/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1903" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+!["Tableau d'insertion professionnelles des diplomés de master en France."]<iframe title="[ Insertion Professionnelle des diplômés de Master en France : ] (Copy)" aria-label="Table" id="datawrapper-chart-aw64t" src="https://datawrapper.dwcdn.net/aw64t/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1903" data-external="1"></iframe>
 
 # Analyse Comparative du Taux d'Insertion Professionnelle Selon les Domaines d'Études :
 Afin d'illustrer la répartition des diplômés par dicsipline d'études et de mettre en évidence la proportion de diplômés dans chaque discipline, nous avons choisi d'utiliser un diagramme circulaire. Cette approche nous permettra de visualiser de manière succincte et esthétique la répartition globale des diplômés au sein des différentes disciplines académiques.
