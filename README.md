@@ -1,4 +1,5 @@
-
+# À l'Assaut du Monde Professionnel : Embarquez pour l'Aventure avec Nous !
+# Analyse de l'insertion professionnelle des diplômés de l'enseignement supérieur en France : Tendances, disparités et perspectives
 # Table des matières
 
 - [Introduction](#introduction)
@@ -23,7 +24,7 @@ En nous plongeant dans l'univers des diplômés de master en France, cette datav
 
 # Collecte et enrichissement de données : 
 
-Le jeu de données ous avons selectionné pour effectuer ces analyses provient de l'Institut national de la statistique et des études économiques (INSEE), l'organisme national français chargé de la collecte, du traitement et de la diffusion de l'information statistique. L'INSEE joue un rôle essentiel dans la fourniture de données fiables et objectives, couvrant un large éventail de domaines socio-économiques. Le jeu de données selectionné contient des informations sur l'insertion professionnelle des diplômés de niveau Master en France. Les informations incluses dans le fichier couvrent divers aspects tels que l'année, le type de diplôme, la situation (18 ou 30 mois après le diplôme), le genre, les disciplines d'étude, les indicateurs d'insertion professionnelle tels que les taux d'insertion, les taux d'emploi, les salaires médians, etc.
+Le jeu de données que nous avons selectionné provient du site https://data.enseignementsup-recherche.gouv.fr/pages/home qui est la plateforme de données ouvertes du ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation en France. Cette plateforme fournit un accès à un large éventail de données relatives à l'enseignement supérieur, à la recherche et à l'innovation. Le jeu de données selectionné contient des informations sur l'insertion professionnelle des diplômés de niveau Master en France. Les informations incluses dans le fichier couvrent divers aspects tels que l'année, le type de diplôme, la situation (18 ou 30 mois après le diplôme), le genre, les disciplines d'étude, les indicateurs d'insertion professionnelle tels que les taux d'insertion, les taux d'emploi, les salaires médians, etc.
 
 Afin de garantir la qualité et la fiabilité de nos données, nous avons fait le choix d'utiliser OpenRefine, un outil puissant qui nous a permis d'effectuer des opérations de nettoyage, d'enrichissement et de transformation avec une grande précision.
 Nous avons réalisé un processus de filtrage des données à l'aide d'OpenRefine, en mettant en œuvre plusieurs étapes visant à améliorer la qualité et l'utilité de nos données. En premier lieu, nous avons éliminé les colonnes superflues telles que "Salaire net mensuel national 3ème quartile" et "Salaire net mensuel national 1er quartile" qui ne contribuaient pas à notre analyse. Ensuite, pour assurer une meilleure clarté, nous avons renommé la colonne "% emplois extérieurs à la région de l’université" en "pourcentage emplois extérieurs à la région de l’université".
